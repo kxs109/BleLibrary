@@ -1,0 +1,1 @@
+include ':app', ':ptr-lib', ':KzlBle', ':test', ':kzlble2', ':test2', ':kzlble3', ':test3', ':BleLibrary'

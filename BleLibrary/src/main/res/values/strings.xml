@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KzlBLE4</string>
+    <string name="not_support_ble">不支持蓝牙4.0</string>
+    <string name="need_location_permission">使用蓝牙4.0需要打开此app的位置权限，请打开手机设置-应用（程序，小米手机请打开授权管理），检查该应用权限是否开启</string>
+    <string name="ble_permission_dialog_text1">提示</string>
+    <string name="button_deny">拒绝</string>
+    <string name="button_setting">设置</string>
+    <string name="ble_init_failed">手机蓝牙4.0初始化失败，无法使用</string>
+</resources>
